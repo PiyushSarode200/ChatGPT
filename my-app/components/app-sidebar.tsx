@@ -1,6 +1,6 @@
 import * as React from "react"
-import { Github, MessagesSquare } from "lucide-react"
 import Link from "next/link"
+import { MessagesSquare } from "lucide-react"
 import {
   Sidebar,
   SidebarContent,
